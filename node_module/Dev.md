@@ -1,10 +1,4 @@
-# jd_app_scripts
-京东快捷操作
-
-----
 # 开发须知
-----
-
   ## 需要安装Node js
   https://baidu.com
   ## 切换 npm 源
