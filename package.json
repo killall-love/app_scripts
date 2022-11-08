@@ -1,0 +1,16 @@
+{
+  "name": "jd_app_scripts",
+  "author": "killall-love",
+  "license": "killall-love",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "download": "^8.0.0",
+    "http-server": "^0.12.3",
+    "got": "^11.5.1",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "tough-cookie": "^4.0.0",
+    "tunnel": "0.0.6",
+    "ws": "^7.4.3"
+  }
+}
