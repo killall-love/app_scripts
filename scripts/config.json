@@ -2,6 +2,9 @@
 	"name": "东东农场",
 	"file": "dongdongFarm"
 }, {
-	"name": "东东农场2",
+	"name": "测试脚本",
 	"file": "dongdongFarm2"
+}, {
+	"name": "感谢你们",
+	"file": "thank"
 }]
