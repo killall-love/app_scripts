@@ -1,13 +1,17 @@
 [{
 	"name": "东东农场",
-	"file": "dongdongFarm"
+	"file": "dongdongFarm",
+	"version":"1"
 }, {
 	"name": "京豆详情统计",
-	"file": "jd_bean_info"
+	"file": "jd_bean_info",
+	"version":"1"
 }, {
 	"name": "测试脚本",
-	"file": "dongdongFarm2"
+	"file": "dongdongFarm2",
+	"version":"1"
 }, {
 	"name": "感谢你们",
-	"file": "thank"
+	"file": "thank",
+	"version":"1"
 }]
