@@ -9,6 +9,7 @@ console.log('感谢so哥')
 console.log('感谢好名字哥')
 console.log('感谢布兰克哥')
 console.log('感谢undefined哥')
+console.log('感谢和风')
 
 console.log('')
 
