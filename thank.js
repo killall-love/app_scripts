@@ -10,8 +10,8 @@ console.log('感谢好名字哥')
 console.log('感谢布兰克哥')
 console.log('感谢undefined哥')
 console.log('感谢和风')
-
-console.log('')
+console.log('感谢和风')
+console.log('感谢韵の祈')
 
 console.log('感谢内测人员：')
 console.log('Anarchy')
