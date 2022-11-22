@@ -2,6 +2,11 @@
     {
         "name": "东东农场",
         "file": "dongdongFarm",
+        "version": "1"
+    },
+    {
+        "name": "东东健康社区一键领取（快捷）",
+        "file": "jdhealth_collectProduceScore",
         "version": "1",
         "env": [
             {
@@ -12,11 +17,6 @@
                 "envHint": "测试变量2"
             }
         ]
-    },
-    {
-        "name": "东东健康社区一键领取（快捷）",
-        "file": "jdhealth_collectProduceScore",
-        "version": "1"
     },
     {
         "name": "京豆详情统计",
