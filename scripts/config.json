@@ -7,16 +7,7 @@
     {
         "name": "东东健康社区一键领取（快捷）",
         "file": "jdhealth_collectProduceScore",
-        "version": "1",
-        "env": [
-            {
-                "envName": "JD_KEY_CK",
-                "envHint": "测试变量"
-            },{
-                "envName": "JD_KEY_CK2",
-                "envHint": "测试变量2"
-            }
-        ]
+        "version": "1"
     },
     {
         "name": "京豆详情统计",
@@ -26,7 +17,16 @@
     {
         "name": "测试脚本",
         "file": "dongdongFarm2",
-        "version": "1"
+        "version": "2",
+        "env": [
+            {
+                "envName": "JD_KEY_CK",
+                "envHint": "测试变量"
+            },{
+                "envName": "JD_KEY_CK2",
+                "envHint": "测试变量2"
+            }
+        ]
     },
     {
         "name": "感谢你们",
