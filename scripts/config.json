@@ -18,6 +18,18 @@
         "cron": "0 15 10 ? * * "
     },
     {
+        "name": "习酒",
+        "file": "xj",
+        "version": "1",
+        "cron": "0 */2 * * * *",
+        "env": [
+            {
+                "envName": "xjhd",
+                "envHint": "习酒Token多个用@隔开"
+            }
+        ]
+    },
+    {
         "name": "测试脚本",
         "file": "dongdongFarm2",
         "version": "2",
