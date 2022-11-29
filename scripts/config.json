@@ -56,5 +56,12 @@
         "version": "4",
         "cron": "0 15 10 ? * * ",
         "scope": "com.jingdong.app.mall"
+    },
+    {
+        "name": "饿了么吃货豆",
+        "file": "ele",
+        "version": "1",
+        "cron": "0 15 10 ? * * ",
+        "scope": "me.ele"
     }
 ]
