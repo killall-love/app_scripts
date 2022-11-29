@@ -70,5 +70,11 @@
         "version": "1",
         "cron": "0 15 10 ? * * ",
         "scope": "com.sankuai.meituan"
+    },
+    {
+        "name": "美团赚米粒-依赖不用跑",
+        "file": "sendNotify",
+        "version": "1",
+        "scope": "com.sankuai.meituan"
     }
 ]
