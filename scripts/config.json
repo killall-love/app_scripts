@@ -60,7 +60,7 @@
     {
         "name": "饿了么吃货豆",
         "file": "ele",
-        "version": "2",
+        "version": "3",
         "cron": "0 15 10 ? * * ",
         "scope": "me.ele"
     }
