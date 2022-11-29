@@ -1,4 +1,4 @@
-# jd_app_scripts
+# app_scripts
 脚本执行管理
 
 ----
