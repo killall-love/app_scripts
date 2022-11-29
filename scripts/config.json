@@ -2,7 +2,7 @@
     {
         "name": "东东农场",
         "file": "dongdongFarm",
-        "version": "1",
+        "version": "2",
         "cron": "0 15 10 ? * * ",
         "scope": "com.jingdong.app.mall"
     },
@@ -60,7 +60,7 @@
     {
         "name": "饿了么吃货豆",
         "file": "ele",
-        "version": "3",
+        "version": "4",
         "cron": "0 15 10 ? * * ",
         "scope": "me.ele"
     },
