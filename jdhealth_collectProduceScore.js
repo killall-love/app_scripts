@@ -93,7 +93,7 @@ let cookiesArr = [],
 
 const JD_API_HOST = "https://api.m.jd.com/";
 !(async () => {
-    cookiesArr[0] = process.env.JD_APP_COOKIE
+    cookiesArr[0] = process.env.APP_COOKIE
 	if (!cookiesArr[0]) {
 		$.msg(
 			$.name,
