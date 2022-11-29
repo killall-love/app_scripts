@@ -3,19 +3,22 @@
         "name": "东东农场",
         "file": "dongdongFarm",
         "version": "1",
-        "cron": "0 15 10 ? * * "
+        "cron": "0 15 10 ? * * ",
+        "scope": "com.jingdong.app.mall"
     },
     {
         "name": "东东健康社区一键领取（快捷）",
         "file": "jdhealth_collectProduceScore",
         "version": "1",
-        "cron": "0 15 10 ? * * "
+        "cron": "0 15 10 ? * * ",
+        "scope": "com.jingdong.app.mall"
     },
     {
         "name": "京豆详情统计",
         "file": "jd_bean_info",
         "version": "1",
-        "cron": "0 15 10 ? * * "
+        "cron": "0 15 10 ? * * ",
+        "scope": "com.jingdong.app.mall"
     },
     {
         "name": "习酒",
@@ -27,7 +30,8 @@
                 "envName": "xjhd",
                 "envHint": "习酒Token多个用@隔开"
             }
-        ]
+        ],
+        "scope": ""
     },
     {
         "name": "测试脚本",
@@ -43,12 +47,14 @@
                 "envName": "JD_KEY_CK2",
                 "envHint": "测试变量2"
             }
-        ]
+        ],
+        "scope": "com.jingdong.app.mall"
     },
     {
         "name": "感谢你们",
         "file": "thank",
         "version": "4",
-        "cron": "0 15 10 ? * * "
+        "cron": "0 15 10 ? * * ",
+        "scope": "com.jingdong.app.mall"
     }
 ]
