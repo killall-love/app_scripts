@@ -63,5 +63,12 @@
         "version": "3",
         "cron": "0 15 10 ? * * ",
         "scope": "me.ele"
+    },
+    {
+        "name": "美团赚米粒",
+        "file": "meituan",
+        "version": "1",
+        "cron": "0 15 10 ? * * ",
+        "scope": "com.sankuai.meituan"
     }
 ]
