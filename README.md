@@ -35,6 +35,8 @@ console.log(process.env.APP_COOKIE)
 
 #### 配置 
 
+### *关于软件你可以在 release 找到答案*
+
 ##### 库中的 config.json 文件是脚本的配置文件
 
 ``` js
