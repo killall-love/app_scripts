@@ -34,7 +34,7 @@ console.log(process.env.APP_COOKIE)
   
 ----
 
-#### 配置 
+## 软件配置 
 
 ### *关于软件你可以在 release 找到答案*
 
