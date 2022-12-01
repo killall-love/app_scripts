@@ -62,7 +62,13 @@
         "file": "ele",
         "version": "4",
         "cron": "0 15 10 ? * * ",
-        "scope": "me.ele"
+        "scope": "me.ele",
+        "env": [
+            {
+                "envName": "elmGrabCoupon",
+                "envHint": "是否自动抢卷需要 9 点 59 运行脚本 1抢卷 0不抢 单纯跑脚本请写0"
+            }
+        ],
     },
     {
         "name": "美团赚米粒",
