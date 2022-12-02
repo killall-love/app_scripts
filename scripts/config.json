@@ -21,6 +21,13 @@
         "scope": "com.jingdong.app.mall"
     },
     {
+        "name": "京东试用",
+        "file": "jd_try",
+        "version": "1",
+        "cron": "0 15 10 ? * * ",
+        "scope": "com.jingdong.app.mall"
+    },
+    {
         "name": "习酒",
         "file": "xj",
         "version": "1",
