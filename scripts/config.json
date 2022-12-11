@@ -80,7 +80,7 @@
     {
         "name": "美团赚米粒",
         "file": "meituan",
-        "version": "2",
+        "version": "3",
         "cron": "0 15 10 ? * * ",
         "scope": "com.sankuai.meituan"
     }
