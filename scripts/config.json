@@ -83,5 +83,17 @@
         "version": "4",
         "cron": "0 15 10 ? * * ",
         "scope": "com.sankuai.meituan"
+    },{
+        "name": "渤海宣传员",
+        "file": "bhxcy",
+        "version": "1",
+        "cron": "0 15 10 ? * * ",
+        "scope": "",
+        "env": [
+            {
+                "envName": "bhxcytoken",
+                "envHint": "小程序里的uid和token例如：uid=1234567&token=qweqwertyuio"
+            }
+        ]
     }
 ]
